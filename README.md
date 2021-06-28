@@ -1,4 +1,4 @@
-# NgVideoGameDirectory
+# VideoGameDirectory
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0, Node version 14.17.1 and npm version 6.14.13
 
